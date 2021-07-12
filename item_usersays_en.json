@@ -1,0 +1,94 @@
+[
+  {
+    "id": "b837a5ac-53b7-4a01-9d83-332c412ac2e9",
+    "data": [
+      {
+        "text": "meals",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f5edc72-1476-4c75-80bc-30ad39f8742f",
+    "data": [
+      {
+        "text": "biryani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed23e061-da39-48ba-abed-cd38fc0fd2e6",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecd69063-d93c-4c92-a3df-48b2f9939a7a",
+    "data": [
+      {
+        "text": "masala papad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b821501-5e0f-4bca-90e4-0935bcb15bbb",
+    "data": [
+      {
+        "text": "paneer tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3598d7f6-3dd4-455b-b499-b58d34bb6589",
+    "data": [
+      {
+        "text": "soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65c50853-a2f0-4385-8acc-66c774a2b3ef",
+    "data": [
+      {
+        "text": "ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
